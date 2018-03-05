@@ -1,2 +1,2 @@
 # DFRS_models
-This repository stores DFRS models used in the Nat2Test startegy.
+This repository stores DFRS models used in the Nat2Test strategy.
